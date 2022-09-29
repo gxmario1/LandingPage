@@ -1,0 +1,73 @@
+
+header{
+    background: url(/assets/img/logo.jpg) no-repeat;
+    height: 250px;
+    background-size: cover;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px black;
+    overflow: hidden;
+}
+
+body{
+    background: black;
+    background: linear-gradient(135deg, rgb(160, 106, 56) 23%, rgb(175, 172, 88) 100%); 
+  }
+ 
+  .oscurecer-img{
+    filter: brightness(85%);
+  }
+
+
+h1{
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 60px;
+    padding-top: 120px;
+    padding-left: 100px;
+    text-shadow: -1px 4px 0 black;
+}
+
+h2{
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 25px;
+    padding-top: 20px;
+    padding-left: 30px;
+    text-shadow: -1px 3px 0 black;
+}
+
+li{
+    color: white;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 30px;
+    padding-right: 70px;
+}
+
+section img{
+    width: 350px;   
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px black;
+    margin: 30px 60px 10px 50px;
+}
+
+footer{
+    margin-top: 50;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: rgb(161, 115, 15);
+    box-shadow: 2px 2px 5px black;
+    text-align: center;
+    padding: 20px;
+    color: white;
+}
+
+section p{
+    color: white;
+    font-size: 20px;
+    padding-left: 30px;
+}
