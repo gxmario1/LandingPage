@@ -1,6 +1,6 @@
 
 header{
-    background: url(/assets/img/logo.jpg) no-repeat;
+    background: url(.assets/img/logo.jpg) no-repeat;
     height: 250px;
     background-size: cover;
     border-radius: 5px;
